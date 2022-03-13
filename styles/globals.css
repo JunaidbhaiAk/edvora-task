@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Inter";
+    src: url("/assests/fonts/interall.woff2");
+}
+
+@font-face {
+    font-family: "SF";
+    src: url("/assests/fonts/sfregular.woff2");
+}
+
+
+@font-face {
+    font-family: "SF";
+    src: url("/assests/fonts/sfbold.woff2");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "SF";
+    src: url("/assests/fonts/sflight.woff2");
+    font-weight: 300;
+}
